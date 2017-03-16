@@ -1,11 +1,9 @@
 # Rules
 
+- Code must be placed in `src` folder.
 - You have 3 - 4 hours to finish all the thing.
-
 - Commit message must have a clear statement as to what the original problem is. Otherwise, your PR will be rejected.
-
 - No linter (eslint) error!
-
 - You're welcome to use whatever you want.
 
 Good luck and most important of all, have fun!
